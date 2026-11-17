@@ -2,7 +2,7 @@
 
 I build **websites** and **Python automation** for small businesses, clubs and freelancers in Belgium.
 
-🌐 **Website:** [mikeysor.github.io](https://mikeysor.github.io) · 💼 **LinkedIn:** [in/mikey-sorgeloos](https://www.linkedin.com/in/mikey-sorgeloos-bb8954358/)
+🌐 **Website:** [mikeysor.github.io](https://mikeysor.github.io) · 💼 **LinkedIn:** [in/mikey-sorgeloos]([https://www.linkedin.com/in/mikey-sorgeloos-bb8954358/](https://mikeysorgeloos.com)
 
 **What I work with:** Python · Tkinter · HTML · CSS · JavaScript · Excel/CSV automation
 
